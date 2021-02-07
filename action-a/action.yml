@@ -9,8 +9,8 @@ input:
   
  runs:
   using: "docker"
-  image:"Dockerfile"
+  image: "Dockerfile"
  
  brading:
   icon: "mic"
-  color: purple
+  color: "purple"
